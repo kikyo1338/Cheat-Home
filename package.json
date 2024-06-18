@@ -1,10 +1,10 @@
 {
   "name": "home",
-  "author": "imsyy",
+  "author": "Zeus",
   "github": "https://github.com/imsyy/home",
-  "home": "https://imsyy.top",
+  "home": "https://store.steampowered.com/",
   "private": true,
-  "version": "4.1.4",
+  "version": "8.8.8",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
