@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">本站软件仅供学习交流，严禁用于商业用途，请于24小时内删除。</div>
+  <div class="more-content">本站软件仅供学习交流，严禁商业用途，请于24小时内删除。</div>
 </template>
 
 <style lang="scss" scoped>
