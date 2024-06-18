@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Steam",
+    "icon": "/images/icon/steam.png",
+    "tip": "我的Steam主页",
+    "url": "https://steamcommunity.com/profiles/76561198969377871/"
+  },
+  {
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "Q绑查询 ~",
+    "url": "https://zy.xywlapi.cc/home.html"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "这是我的邮箱 ~",
+    "url": "mailto:one@imsyy.top"
+  },
+  {
+    "name": "教程",
+    "icon": "/images/icon/iPhone-X.png",
+    "tip": "如何联系我 ~",
+    "url": "https://www.notion.so/a3eab022df8b4910b0f5add5149e572f?pvs=4"
+  }
+]
